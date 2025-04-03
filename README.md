@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sachin292929
 - 👀 I’m interested in new projectes
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on new gameing project
+- 💞️ I’m looking to collaborate on new gaming project
 - 📫 You can reach me on insta user name sachin____bishnoi
 
 <!---
